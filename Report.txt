@@ -1,0 +1,11 @@
+Graphics COMSW4160 Programming Assignment 1
+Gary Chen gc2676
+
+
+-In my code I have implemented all functions specified in parts 1 and 2 of the assignment.
+
+-I have also included 3 extra obj files in models which I used to make my video and modified DummyGame.Java so it runs with the 3 objs.
+
+-These 3 obj files were downloaded from http://tf3dm.com/. My 10s demo video is in the same folder and is an animation of a Pokemon trainer throwing a pokeball to catch a Charizard.
+
+-The code can be ran by running build.xml
